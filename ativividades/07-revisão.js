@@ -1,15 +1,12 @@
 // Comentário em linha
 
-
 /*  
     Comentário de varias linhas
     Bloco de código
 */
 
-
 // Imprimir informações ne tela
-console.log("Imprime Informações na telas")
-
+console.log("Imprime Informações na telas");
 
 /*
     Declaração de Variáveis
@@ -28,9 +25,7 @@ let salario = 25864.57;
 let professor = false;
 let nome = "João da Silva";
 
-
-console.log("Nome: ", nome, "Idade: ", idade, "Salário: ", salario )
-
+console.log("Nome: ", nome, "Idade: ", idade, "Salário: ", salario);
 
 /*
     Operadores Matematicos
@@ -43,18 +38,17 @@ console.log("Nome: ", nome, "Idade: ", idade, "Salário: ", salario )
 let num1 = 10;
 let num2 = 2;
 
-
 let soma = num1 + num2;
 let subtracao = num1 - num2;
 let multiplicacao = num1 * num2;
 let divisao = num1 / num2;
-let restoDivisao = num1 % num2 
+let restoDivisao = num1 % num2;
 
-// imprimir as operações 
-console.log("o resto da Divisão do", num1, " por ", num2,);
+// imprimir as operações
+console.log("o resto da Divisão do", num1, " por ", num2);
 
 /*
     operadores de comparação
     == => comparação de igualdade
     > -> Maior que
-    <     
+*/
