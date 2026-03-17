@@ -14,6 +14,7 @@ function nasci(dataNascimento) {
   let idade = 2026 - dataNascimento;
   return idade;
 }
+
 console.log("Você irá fazer", nasci(2010), "anos");
 
 function kms(combustivel) {
